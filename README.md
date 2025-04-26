@@ -15,23 +15,6 @@ Step 3 : Declare the required variables and functions.
  
 Step 4 : Get the co-ordinates and radius of the circle.
 
-Step 5 : Draw the circle using the algorithm.# EX 3 : Circle Drawing Algorithm
-
-**AIM :**
-
-To  implement the Bresenham’s  algorithm for circle using a c coding.
-
-
-**ALGORITHM :**
-
-Step 1 : Start.
-    
-Step 2 : Initialize the graphics header files and functions.
-   
-Step 3 : Declare the required variables and functions.
- 
-Step 4 : Get the co-ordinates and radius of the circle.
-
 Step 5 : Draw the circle using the algorithm.
 
 Step  6 : Display the output.
@@ -100,19 +83,3 @@ Register Number: 212224040323
 **Result :**
 
 Thus the Bresenham’s  algorithm for circle using a c coding is implemented successfully.
-
-
-Step  6 : Display the output.
-  
-Step 7 : stop.
-
-**Program :**
-
-
-
-**Output :**
-
-
-
-**Result :**
-
